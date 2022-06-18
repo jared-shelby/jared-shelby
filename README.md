@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jared-shelby
-- 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... web dev using Ruby & Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💻 I’m interested in ... building beautiful & useful applications
+- 🌱 I’m currently learning ... full-stack web development
 - 📫 How to reach me ... via email: jared.shelby@yale.edu
 
 <!---
