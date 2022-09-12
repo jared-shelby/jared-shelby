@@ -11,6 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=jared-shelby&theme=solarized-light&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jared-shelby&theme=solarized-light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jared-shelby&theme=solarized-light&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=jared-shelby&icon=5&color=12)](https://visitcount.itsvg.in)
